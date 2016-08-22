@@ -1,0 +1,82 @@
+[
+    {
+        "age": 0, 
+        "id": "assassins-creed-syndicate", 
+        "imageUrl": "img/games/assassins-creed-syndicate.0.jpeg", 
+        "name": "Assassins Creed Syndicate", 
+        "genre": "Action / Adventure",
+        "developer": "Ubisoft Quebec",
+        "publisher": "Ubisoft",
+        "snippet": "London. 1868. The Industrial Revolution. It was an age of invention and prosperity, built on the backs of working class slaves. As gangster assassin Jacob Frye..."
+    },
+    {
+        "age": 1, 
+        "id": "batman-arkham-knight", 
+        "imageUrl": "img/games/batman-arkham-knight.0.jpeg", 
+        "name": "Batman Arkham Knight", 
+        "genre": "Action / Adventure",
+        "developer": "Rocksteady",
+        "publisher": "Warner Bros. Interactive Entertainment",
+        "snippet": "This season pass for Batman: Arkham Knight delivers regular new content for 6 months post-launch..."
+    },  
+    {
+        "age": 2,  
+        "id": "far-cry-primal", 
+        "imageUrl": "img/games/far-cry-primal.0.jpeg", 
+        "name": "FarCry Primal", 
+        "genre": "First Person Shooter / Action / Adventure",
+        "developer": "Ubisoft",
+        "publisher": "Ubisoft",
+        "snippet": "Welcome to the Stone Age, a time of extreme danger and limitless adventure..."
+    }, 
+    {
+        "age": 3, 
+        "id": "hitman", 
+        "imageUrl": "img/games/hitman.0.jpeg", 
+        "name": "Hitman", 
+        "genre": "Action",
+        "developer": "Io-Interative",
+        "publisher": "Square Enix",
+        "snippet": "There is a world beyond ours. Beyond nations, justice, ethics. It never sleeps. It exists everywhere. And once you enter..."
+    }, 
+    {
+        "age": 4, 
+        "id": "just-cause-3", 
+        "imageUrl": "img/games/just-cause-3.0.jpeg", 
+        "name": "Just Cause 3",
+        "genre": "Action / Adventure", 
+        "developer": "Avalanche Studios",
+        "publisher": "Square Enix, Inc.",
+        "snippet": "The Mediterranean republic of Medici is suffering under the brutal control of General Di Ravello, a dictator with an insatiable appetite for power. Enter Rico Rodriguez..."
+    }, 
+    {
+        "age": 5, 
+        "id": "mad-max", 
+        "imageUrl": "img/games/mad-max.0.jpeg", 
+        "name": "Mad Max", 
+        "genre": "Adventure / Action",
+        "developer": "Avalanche Studios",
+        "publisher": "Warner Bros. Interactive Entertainment",
+        "snippet": "Play as Mad Max, a lone warrior who embarks on a dangerous journey after his Interceptor is stolen by a deadly gang of marauder..."
+    }, 
+    {
+        "age": 6, 
+        "id": "street-fighter-v", 
+        "imageUrl": "img/games/street-fighter-v.0.jpeg", 
+        "name": "Street Fighter V", 
+        "genre": "Fighting",
+        "developer": "Capcom",
+        "publisher": "Capcom",
+        "snippet": "The latest chapter of the legendary fighting franchise is console exclusive on PS4..."
+    }, 
+    {
+        "age": 7, 
+        "id": "tom-clancys-the-division", 
+        "imageUrl": "img/games/tom-clancys-the-division.0.jpeg", 
+        "name": "Tom Clancys The Division", 
+        "genre": "Role Playing Game (RPG) / Shooter / Action / Adventure",
+        "developer": "Massive",
+        "publisher": "Ubisoft",
+        "snippet": "Tom Clancy’s The DivisionTM is a ground-breaking RPG experience that brings the genre into a modern military setting for the first time..."
+    }
+]

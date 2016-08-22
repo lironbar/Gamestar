@@ -1,0 +1,74 @@
+<div id="wrapper">
+
+	<div class="panels" id="a">
+
+		<div class="row">
+			<div class="col-md-12">
+			<img ng-src="{{$ctrl.game.backImage}}" class="backimage">
+			</div>
+		</div>
+	</div>
+
+
+
+	<div class="container panels" id="b">
+		<div class="container">
+			<div class="row">
+				<h2 class="game-name"> {{$ctrl.game.name}} </h2>
+
+				<div class="col-md-4">
+					<img ng-src="{{$ctrl.game.mainImage}}" class="mainimage"/>
+				</div>
+
+				<div class="col-md-8">
+					<img ng-src="{{$ctrl.bigImage}}" class="bigimage"/>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+	<div class="container panels" id="c">  
+		<div class="row">
+			<div class="col-md-4">
+			    <ul class="ul-mid">
+			    	<li> <b>Genre:</b> {{$ctrl.game.genre}} </li>
+			    	<li> <b>Publisher:</b> {{$ctrl.game.developer}} </li>
+			    	<li> <b>Developer:</b> {{$ctrl.game.publisher}} </li>
+			    	<br>
+			    	
+			    </ul>
+			</div>
+
+			<div class="col-md-8">
+				<div class="game-back">
+					<ul>
+						<li ng-repeat="img in $ctrl.game.images" class="game-thumbs">
+							<img ng-src="{{img}}" ng-click="$ctrl.setImage(img)"/>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<div class="container panels" id="d">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="game-play">
+				<h2 class="section-heading center-align-heading">Game Overview</h2>
+				<span id="desc-text">Description: {{$ctrl.game.description}} </span>	
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+

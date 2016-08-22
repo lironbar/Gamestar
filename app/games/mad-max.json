@@ -1,0 +1,19 @@
+{
+    "name": "Mad Max", 
+    "id": "mad-max", 
+    "images": [ 
+        "img/games/mad-max.1.jpeg", 
+        "img/games/mad-max.2.jpeg", 
+        "img/games/mad-max.3.jpeg", 
+        "img/games/mad-max.4.jpeg", 
+        "img/games/mad-max.5.jpeg"
+    ], 
+    "genre": "Adventure / Action",
+    "developer": "Avalanche Studios",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "mainImage": "img/games/mad-max.0.jpeg",
+    "backImage": "img/games/mad-max.back.jpeg",
+    "mLogo": "img/comp-logo/M.png",
+    "description": "Play as Mad Max, a lone warrior who embarks on a dangerous journey after his Interceptor is stolen by a deadly gang of marauders lead by the warlord, Scabrous Scrotus. A reluctant hero with an instinct for survival, Max wants nothing more than to leave the madness behind and find solace in the storied “Plains of Silence”."
+
+}

@@ -1,0 +1,374 @@
+/* Web Fonts -------------------- */
+
+@font-face {
+  font-family: 'Abolition Regular';
+  src: url('../fonts/abolition-regular-webfont.eot');
+  src: url('../fonts/abolition-regular-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/abolition-regular-webfont.woff') format('woff'),
+       url('../fonts/abolition-regular-webfont.ttf') format('truetype');
+}
+
+
+html,body {
+  padding:0;
+  margin:0;
+  font: 1em/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+span {
+  font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 400;
+  
+}
+
+h1 {
+  margin-top: 0;
+  font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+h3 {
+  font-size: 1.25em;
+  
+}
+
+p {
+  text-align: center;
+  line-height: 1.2;
+  font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 80%;
+}
+
+
+
+
+ul {
+    font-size: 1.25em;
+    line-height: 1.6;
+    color: #000;
+}
+
+.ul-mid {
+  text-align: center;
+
+}
+
+
+/* View: game list */
+
+
+
+
+.main-div {
+  background-color: #fff;
+}
+
+.main-header {
+  padding-top: 170px;
+  height: 530px;
+  background: linear-gradient(black, transparent 20%),
+              #1e2022 url('../img/main-page/main-cover.jpeg') no-repeat center;
+  background-size: cover;
+  color: white;
+
+}
+
+.main-heading {  
+  font-size: 5.625rem;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+  font-weight: normal;
+  line-height: 1.3; 
+  text-shadow: 0 1px 1px rgba(0,0,0,.8);
+  margin: 12px 0 0;
+  font-size: 7rem;
+  line-height: 1.1;
+  font-family: 'Abolition Regular', Helvetica, Arial, sans-serif;
+}
+
+.main-title {
+  color: white;
+  font-size: 1.625rem;
+  letter-spacing: .065em;
+  font-weight: 200;
+  font-size: 1.7rem;
+  border: none;
+
+  border-bottom: 2px solid;
+  padding-bottom: 10px;
+  
+}
+
+.main-header,
+.main-footer {
+  text-align: center;
+}
+
+.header-border {
+  border-top: 2px solid #fff;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+
+
+
+.body-cover {
+  height: 400px;
+  background: 
+              #1e2022 url('../img/main-page/body-cover2.jpeg') no-repeat center;
+  background-size: cover;
+  color: white;
+  position: relative;
+}
+
+#body-container {
+background: transparent;
+}
+
+
+
+
+
+
+
+#mainhead {
+  text-align: center;
+}
+
+#search-p {
+  padding-bottom: 12px;
+  margin-top: 20px;
+}
+
+
+
+
+.games {
+  list-style: none;
+}
+
+.games li {
+  clear: both;
+  height: 115px;
+  padding-top: 15px;
+}
+
+
+.thumb img {
+  display: block;
+  width:250px;
+  height:320px;
+  margin-left: 20px;
+  margin-right: auto;
+  border-radius: 8px;
+
+  display: inline-block;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  transition: 0.3s;
+
+}
+
+
+.thumb img:hover {
+    box-shadow: 0 0 2px 1px rgba
+    (0, 140, 186, 0.5);
+}
+
+.col-md-4:nth-child(3n+1){
+    clear: left;
+}
+
+.gamebox {
+  margin: auto; max-width: 1200px;
+}
+
+#gamenamebox {
+  font-size: 17px;
+  color: white;
+}
+
+
+.thumb-action {
+  display: block;
+  width:200px;
+  height:260px;
+  margin-left: 20px;
+  margin-right: auto;
+  border-radius: 8px;
+
+
+}
+
+.container {
+  background-color: #fff;
+}
+
+#search {
+  padding-bottom: 20px;
+  padding-top: 15px;
+  float: right;
+}
+
+#email-filed {
+  margin-top: 20px;
+  float: right;
+  padding-right: 20px;
+}
+
+
+
+
+
+/* View: Game detail */
+
+.game-name {
+  margin-left: 77px;
+
+}
+
+li {
+  list-style: none;
+
+}
+
+
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+
+.mainimage {
+
+  height: 400px;
+  margin-left: 2em;
+  width: 300px;
+}
+
+.bigimage {
+  margin-left: 20px;
+  width: 700px;
+  height: 400px;
+}
+
+.game-back {
+  background: black;
+}
+
+
+.game-thumbs {
+  list-style: none;
+  margin: 0;
+}
+
+
+.game-thumbs img {
+  float: left;
+  width: 150px;
+  height: 100px;
+  margin: 0.5em;
+  border: 3px solid black;
+  cursor: pointer;
+}
+
+.gameplay {
+    color: #363636;
+    font-size: .813em;
+    font-family: 'SST W01 Roman','SST W02 Roman','SST W10 Roman','SST W15 Roman',Arial,Helvetica,sans-serif;
+    letter-spacing: -0.2px;
+}
+
+h2.section-heading {
+    font-size: 28px;
+    color: #0068bf;
+    margin-bottom: 15px;
+    font-weight: normal;
+    font-style: italic;
+    font-family: 'SST W01 Roman','SST W02 Roman','SST W10 Roman','SST W15 Roman',Arial,Helvetica,sans-serif;
+}
+
+h2.center-align-heading {
+  text-align: center;
+}
+
+
+.backimage {
+
+  float: left;
+  height: 60  20px;
+  width: 100%;
+  padding: 0;
+  position: relative;
+}
+
+
+#wrapper { 
+    position:absolute;
+
+    width:100%;
+}
+
+.panels { 
+  position:relative;
+  height:100%;
+  min-height:100%;
+  width:100%;
+  z-index:1000;
+}
+
+#desc-text {
+color: #4c4a37;
+text-align: center;
+font-family: 'Source Sans Pro', sans-serif;
+font-size: 18px; 
+line-height: 30px;
+
+}
+
+
+#a {
+  background: white;
+  position: fixed;
+  top:0;
+  left:0;
+  z-index: -99; 
+}
+
+#b {
+  margin-top: 510px;
+  background-color: white;
+
+}
+
+#c {
+  background-color: white;
+  border-bottom: 1px solid gray;
+}
+
+#d {
+  background-color: #f0f5f9;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

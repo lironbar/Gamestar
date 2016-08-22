@@ -1,0 +1,1 @@
+angular.module('core', ['core.game', 'core.mail']);

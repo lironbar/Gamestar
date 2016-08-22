@@ -1,0 +1,10 @@
+//*
+.some-message {
+  transition:1s linear all;
+}
+
+.some-message.ng-enter {}
+.some-message.ng-enter.ng-enter-active {}
+
+.some-message.ng-leave {}
+.some-message.ng-leave.ng-leave-active {}

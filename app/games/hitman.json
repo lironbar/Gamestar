@@ -1,0 +1,19 @@
+{
+    "name": "Hitman", 
+    "id": "hitman", 
+    "images": [
+        "img/games/hitman.1.jpeg", 
+        "img/games/hitman.2.jpeg", 
+        "img/games/hitman.3.jpeg", 
+        "img/games/hitman.4.jpeg", 
+        "img/games/hitman.5.jpeg"
+    ], 
+    "genre": "Action",
+    "developer": "Io-Interative",
+    "publisher": "Square Enix",
+    "mainImage": "img/games/hitman.0.jpeg",
+    "backImage": "img/games/hitman.back.jpeg",
+    "mLogo": "img/comp-logo/M.png",
+    "description": "With the Full Experience, you will have access to all seven episodes including the Six PlayStation®4 Exclusive contracts –The Sarajevo Six. As Agent 47, you perform contract hits on high-profile targets in exotic locations around the world. In the March release, players have access to the Intro Pack content - Prologue Mission, the Paris Sanguine Fashion Show, full access to Contracts Mode, Escalation Mode, elusive targets and other live content. Future locations - in April, Sapienza Italy, track down a scientist residing in the sunny coastal town. In May, the hustle and bustle of Marrakesh, Morocco.  And as the story expands you will travel to Thailand and the USA before concluding in Japan later in 2016.  Content will be available as seven releases periodically throughout 2016, starting April 2016 including one PlayStation exclusive contract per location."
+
+}

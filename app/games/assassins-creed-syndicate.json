@@ -1,0 +1,19 @@
+{
+    "name": "Assassins Creed Syndicate", 
+    "id": "assassins-creed-syndicate", 
+    "images": [
+        "img/games/assassins-creed-syndicate.1.jpeg", 
+        "img/games/assassins-creed-syndicate.2.jpeg", 
+        "img/games/assassins-creed-syndicate.3.jpeg", 
+        "img/games/assassins-creed-syndicate.4.jpeg", 
+        "img/games/assassins-creed-syndicate.5.jpeg"
+    ], 
+    "genre": "Action / Adventure",
+    "developer": "Ubisoft Quebec",
+    "publisher": "Ubisoft",
+    "mainImage": "img/games/assassins-creed-syndicate.0.jpeg",
+    "backImage": "img/games/assassins-creed-syndicate.back.jpeg",
+    "mLogo": "img/comp-logo/M.png",
+    "description": "London. 1868. The Industrial Revolution. It was an age of invention and prosperity, built on the backs of working class slaves. As gangster assassin Jacob Frye, you will recruit your gang to fight for justice on behalf of the oppressed working class. Lead the underworld to take back London in a visceral adventure filled with action, intrigue and brutal combat. 10 missions task Jacob and Evie with solving murders, kidnappings, and other crimes throughout London for special rewards like gear and exclusive artwork."
+
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Tom Clancys The Division", 
+    "id": "tom-clancys-the-division", 
+    "images": [
+        "img/games/tom-clancys-the-division.1.jpeg", 
+        "img/games/tom-clancys-the-division.2.jpeg", 
+        "img/games/tom-clancys-the-division.3.jpeg", 
+        "img/games/tom-clancys-the-division.4.jpeg", 
+        "img/games/tom-clancys-the-division.5.jpeg"
+    ], 
+    "genre": "Role Playing Game (RPG) / Shooter / Action / Adventure",
+    "developer": "Massive",
+    "publisher": "Ubisoft",
+    "mainImage": "img/games/tom-clancys-the-division.0.jpeg",
+    "backImage": "img/games/tom-clancys-the-division.back.jpeg",
+    "mLogo": "img/comp-logo/M.png",
+    "description": "Enter the Dark Zone, a walled-off quarantine zone in the middle of Manhattan where the most valuable loot was left behind when the military evacuated. It’s also the most dangerous area in the game, where fear, betrayal, and tension are high. Team up with other players to take down your enemies and extract legendary loot via helicopter. It’s your choice to collaborate with other agents, or attack them and steal their loot."
+
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Street Fighter V", 
+    "id": "street-fighter-v", 
+    "images": [
+        "img/games/street-fighter-v.1.jpeg", 
+        "img/games/street-fighter-v.2.jpeg", 
+        "img/games/street-fighter-v.3.jpeg", 
+        "img/games/street-fighter-v.4.jpeg", 
+        "img/games/street-fighter-v.5.jpeg"
+    ], 
+    "genre": "Fighting",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "mainImage": "img/games/street-fighter-v.0.jpeg",
+    "backImage": "img/games/street-fighter-v.back.jpeg",
+    "mLogo": "img/comp-logo/M.png",
+    "description": "The legendary fighting franchise returns with Street Fighter V! Powered by Unreal Engine 4 technology, stunning visuals depict the next generation of World Warriors in unprecedented detail, while exciting and accessible battle mechanics deliver endless fighting fun that both beginners and veterans can enjoy. Challenge friends online, or compete for fame and glory on the Capcom Pro Tour. Street Fighter V will be released exclusively for the PlayStation 4 and PC. Through a strategic partnership between Sony Computer Entertainment Inc. and Capcom, the next generation Street Fighter experience will offer cross-platform play that will unite fans into a centralized player base for the first time ever. The path to greatness begins here: RISE UP"
+
+}

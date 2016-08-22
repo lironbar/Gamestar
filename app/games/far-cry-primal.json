@@ -1,0 +1,19 @@
+{
+    "name": "Far Cry Primal", 
+    "id": "far-cry-primal", 
+    "images": [
+        "img/games/far-cry-primal.1.jpeg", 
+        "img/games/far-cry-primal.2.jpeg", 
+        "img/games/far-cry-primal.3.jpeg", 
+        "img/games/far-cry-primal.4.jpeg", 
+        "img/games/far-cry-primal.5.jpeg"
+    ], 
+    "genre": "First Person Shooter / Action / Adventure",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "mainImage": "img/games/far-cry-primal.0.jpeg",
+    "backImage": "img/games/far-cry-primal.back3.jpeg",
+    "mLogo": "img/comp-logo/M.png",
+    "description": "Welcome to the Stone Age, a time of extreme danger and limitless adventure, when woolly mammoths and sabretooth tigers rule the Earth, and humanity is at the bottom of the food chain. As the last survivor of your hunting group, you will learn to craft a deadly arsenal, tame fierce predators, and outsmart enemy tribes to conquer the land of Oros and become the Apex Predator."
+
+}

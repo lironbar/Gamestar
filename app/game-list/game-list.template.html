@@ -1,0 +1,99 @@
+<div class=main-div>		
+		<header class="main-header">
+			<span class="main-title"> Journey Through The PS4 Games Review </span>
+			<h1 class="main-heading"> GameStar </h1>
+			<h3 class="main-line"> Explore-Love-Play </h3>
+			<img src=""/>
+		</header>
+
+	<header class="body-cover">
+		<div class="container" id="body-container">
+		    <data-owl-carousel class="owl-carousel" data-options="{navigation: true, pagination: false, rewindNav : false}">
+		      	<owl-carousel-item ng-repeat="game in $ctrl.games" class="item">
+				      		<a href="#!/games/{{game.id}}">
+				      			<img ng-src="{{game.imageUrl}}" class="thumb-action"  />
+				      			<p id="gamenamebox"> {{game.name}} </p>
+				      		</a>
+				      		<p> Genre: {{game.genre}} </p>
+				</owl-carousel-item>
+			</data-owl-carousel>
+		</div>
+	</header>
+
+	<div class="container header-border">
+		<div class="row">
+
+			<!--Sidebar content-->
+			<div class="col-md-6" >
+		    	<div id="search" class="col-xs-6">
+		      		<label>Search For A Game:</label>
+		      		<input placeholder="Search..."ng-model="$ctrl.query" class="form-control" />
+		    	</div>
+			</div>
+
+			<!--Email-->
+			<div class="col-md-6" id="email-filed">
+
+				<form name="myForm">
+				
+				  <label>
+				    Enter Your Email:
+				    <input
+				    	placeholder="Example@gmail.com"
+				    	type="email"
+				        name="myName"
+				        ng-model="user.email"
+				        ng-minlength="5"
+				        ng-maxlength="30"
+				        class="form-control"
+				        required />
+				        
+				  </label>
+
+				  <button type="button" class="btn btn-primary" ng-click="update(user)">Submit</button>
+				  <input type="button" value="show" ng-click="show(user)" />
+
+				  <div ng-messages="myForm.myName.$error" role="alert">
+				    <div ng-message="required">*Please enter your email</div>
+				    <div ng-message="minlength">*E-mail is too short</div>
+				    <div ng-message="maxlength">*E-mail is too long</div>
+				    <div ng-message="email"> *Must be a valid email address.</div>
+				</form> 
+			</div>
+
+			</div>
+		</div>
+	</div>
+
+
+
+
+	<div class="container gamebox">
+		<div class="row">
+			<ul>
+				<div class="">
+				<ul>
+		      		<li ng-repeat="game in $ctrl.games | filter: $ctrl.query" class="col-md-4">
+			      		<a href="#!/games/{{game.id}}" class="thumb">
+			      			<img ng-src="{{game.imageUrl}}"  alt=""/>
+			      		</a>
+			      		<a href="#!/games/{{game.id}}"> <p>{{game.name}}</p> </a>
+			      		<p> Genre: {{game.genre}} </p>
+			      		<p> About: {{game.snippet}} </p>
+			      	</li>
+			    </ul>  	
+		      	</div>
+	   		</ul>
+		</div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
